@@ -1,0 +1,9 @@
+[submodule "LyricsFluencer-SwiftUI"]
+	path = LyricsFluencer-SwiftUI
+	url = https://github.com/wuerch/LyricsFluencer-SwiftUI.git
+[submodule "LyricsFluencer-BackEnd"]
+	path = LyricsFluencer-BackEnd
+	url = https://github.com/wuerch/LyricsFluencer-BackEnd.git
+[submodule "LyricsFluencer-BackEndLite"]
+	path = LyricsFluencer-BackEndLite
+	url = https://github.com/wuerch/LyricsFluencer-BackEndLite.git
