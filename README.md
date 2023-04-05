@@ -15,7 +15,7 @@ With this app you can understand lyrics in an other language and learn the langu
 
 ## 1. Recognize a Song with Shazam or Search a Song
 
-<img src="https://cdn.glitch.global/395575f6-8f2c-40bf-a7bc-f0c3e7b05f50/Search.png?v=1680709915079" width="250">
+<img src="/images/Search.png" width="250">
 
 ## How does the search work?
 
@@ -23,7 +23,7 @@ Shazam returns the artist name and song title, this is the search query for an a
 
 ## 2. Understand the Lyrics
 
-<img src="https://cdn.glitch.global/395575f6-8f2c-40bf-a7bc-f0c3e7b05f50/LyricsMenu.png?v=1680709911373" width="250">
+<img src="/images/LyricsMenu.png" width="250">
 
 ## How the lyrics are generated?
 
@@ -33,18 +33,18 @@ The Lyrics are scraped from a website and after that translated through the goog
 
 ## 3. Google Words you don't know
 
-<img src="https://cdn.glitch.global/395575f6-8f2c-40bf-a7bc-f0c3e7b05f50/GoogleMeaning.png?v=1680709921267" width="250">
+<img src="/images/GoogleMeaning.png" width="250">
 
 ## 4. Add words you don't know to your flashcard decks
 
-<img src="https://cdn.glitch.global/395575f6-8f2c-40bf-a7bc-f0c3e7b05f50/AddToDeck.png?v=1680710018894" width="250">
+<img src="/images/AddToDeck.png" width="250">
  
 ## 5. Manage your decks
-<img src="https://cdn.glitch.global/395575f6-8f2c-40bf-a7bc-f0c3e7b05f50/Decks.png?v=1680709927104" width="250">
+<img src="/images/Decks.png" width="250">
  
 ## 6. Learn added cards
 
-<img src="https://cdn.glitch.global/395575f6-8f2c-40bf-a7bc-f0c3e7b05f50/Card_2.png?v=1680709931150" width="250">
+<img src="/images/Card_2.png" width="250">
  
  ## How can I use the App?
  
@@ -54,5 +54,5 @@ The Lyrics are scraped from a website and after that translated through the goog
  
  I implemented Paypal and Stripe Payments on the website frontend with plan handling in the iOS App, but decided to not include subscriptions.
  
- <img src="https://cdn.glitch.global/395575f6-8f2c-40bf-a7bc-f0c3e7b05f50/Paypalstripe.png?v=1680709750135" width="250">
+ <img src="/images/Paypalstripe.png" width="250">
  
