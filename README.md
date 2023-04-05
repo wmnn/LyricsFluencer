@@ -50,7 +50,7 @@ The Lyrics are scraped from a website and after that translated through the goog
  
  You can start using the App after joining the newsletter at the <a href="www.lyricsfluencer.com">LyricsFluencer Website</a>.
  
- ## Some Aditional Implementations:
+ ## Some Additional Implementations:
  
  I implemented Paypal and Stripe Payments on the website frontend with plan handling in the iOS App, but decided to not include subscriptions.
  
